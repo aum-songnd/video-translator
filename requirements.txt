@@ -1,0 +1,10 @@
+faster-whisper>=1.1,<2
+av>=14,<18
+deep-translator>=1.11.4,<2
+edge-tts>=7,<8
+yt-dlp[default]>=2026.10.21
+requests>=2.31.0
+secretstorage>=3.3.3
+curl_cffi>=0.7.0
+
+
